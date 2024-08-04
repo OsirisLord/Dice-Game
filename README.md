@@ -29,6 +29,7 @@ Dice-Game is a simple two-player dice game implemented using HTML, CSS, and Java
 
 ## How to Run
 Visit: https://dice-gameg.netlify.app
+
 Or 
 1. Clone the repository.
 2. Open the `index.html` file in a web browser.
