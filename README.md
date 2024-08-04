@@ -35,5 +35,5 @@ Dice-Game is a simple two-player dice game implemented using HTML, CSS, and Java
 ## Files
 
 - `index.html`: The main HTML structure of the game.
-- `style.css`: Contains all the styling for the game (not provided in the code snippet).
+- `style.css`: Contains all the styling for the game 
 - `script.js`: Contains the JavaScript code for game logic and interactions.
